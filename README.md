@@ -6,7 +6,7 @@ This is the backend server for the Foodio application. It fetches restaurant dat
 
 1.  Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone git@github.com:atharao/foodio-backend.git
     ```
 2.  Install the dependencies:
     ```bash
